@@ -1,0 +1,84 @@
+﻿@model List<talon>
+
+@{
+    ViewData["Title"] = "PERKS";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .perk-card {
+        margin-bottom: 20px;
+        background-color: #333;
+    }
+
+    .card-title {
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+</style>
+<head>
+  
+
+</head>
+
+<h1>PERKS</h1>
+
+@{
+    int itemsPerRow = 4;
+    var chunks = Model.Select((item, index) => new { item, index })
+                     .GroupBy(x => x.index / itemsPerRow)
+                     .Select(g => g.Select(x => x.item).ToList())
+                     .ToList();
+}
+
+@foreach (var row in chunks)
+{
+    <div class="row">
+        @foreach (var item in row)
+        {
+            <div class="col-md-@((int)(12 / itemsPerRow))">
+                <div class="card mb-4 box-shadow perk-card">
+                    <img class="card-img-top img-fluid bg-dark" src="@item.PERK_IMAGE1" alt="Character Image" onerror="this.style.display='none';">
+                    <div class="bg-dark">
+                        <h4 class="card-title" style="color:white">@item.PERK_NAME</h4>
+                        <div class="d-flex justify-content-between align-items-center">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <div class="row">
+        @foreach (var item in row)
+        {
+            <div class="col-md-@((int)(12 / itemsPerRow))">
+                <div class="card mb-4 box-shadow perk-card">
+                    <img class="card-img-top img-fluid bg-dark" src="@item.PERK_IMAGE2" alt="Character Image" onerror="this.style.display='none';">
+                    <div class="bg-dark">
+                        <h4 class="card-title" style="color:white">@item.PERK_NAME2</h4>
+                        <div class="d-flex justify-content-between align-items-center">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <div class="row">
+        @foreach (var item in row)
+        {
+            <div class="col-md-@((int)(12 / itemsPerRow))">
+                <div class="card mb-4 box-shadow perk-card">
+                    <img class="card-img-top img-fluid bg-dark" src="@item.PERK_IMAGE3" alt="Character Image" onerror="this.style.display='none';">
+                    <div class="bg-dark">
+                        <h4 class="card-title" style="color:white">@item.PERK_NAME</h4>
+                        <div class="d-flex justify-content-between align-items-center">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}

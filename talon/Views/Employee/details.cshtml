@@ -1,0 +1,19 @@
+﻿@model Employee
+
+<div>
+    <h2>Employee Details</h2>
+    <p>ID: @Model.Id</p>
+    <p>Name: @Model.Name</p>
+    <p>Surname: @Model.Surname</p>
+    <p>Birth Date: @Model.BirthDate.ToString("yyyy-MM-dd")</p>
+    <p>Position: @Model.Position</p>
+
+    @if (!string.IsNullOrEmpty(Model.Image))
+    {
+        <img src="@Model.Image" alt="@Model.Name" width="150" height="150" />
+    }
+    else
+    {
+        <p>No image found for @Model.Name.</p>
+    }
+</div>

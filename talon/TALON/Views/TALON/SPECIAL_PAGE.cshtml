@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@Model.NAME - SPECIAL_PAGE</title>
+    <link rel="stylesheet" href="/css/site.css" />
+    <style>
+        body {
+            background-color: #333;
+            color: white;
+            font-family: 'Arial', sans-serif;
+            padding: 20px;
+        }
+
+        h3, hr, img {
+            margin-bottom: 20px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+
+        .section-with-background {
+            padding: 20px;
+            background-color: rgba(32, 37, 40, 255);
+        }
+
+        h2 {
+            font-size: 24px;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+
+    <h3>@Model.NAME</h3>
+    <hr />
+    <img src="@Model.PHOTO" alt="CHARACTER Image" onerror="this.style.display='none';">
+    <hr />
+    <div class="section-with-background">
+        <h4> @Model.DETAILS</h4>
+        <hr />
+        <br />
+        <h4>LORE</h4>
+        <p>@Model.LORE</p>
+    </div>
+    <hr />
+    <div class="section-with-background">
+        <h4>PERKS</h4>
+        <table class="table table-dark">
+            <thead>
+                <tr>
+                    <th>Perk Image</th>
+                    <th>Perk Name</th>
+                    <th>Perk Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><img src="@Model.PERK_IMAGE1" alt="Perk Image" width="50" height="50"></td>
+                    <td>@Model.PERK_NAME</td>
+                    <td>@Model.PERK_DESCRIPTION1</td>
+                </tr>
+                <tr>
+                    <td><img src="@Model.PERK_IMAGE2" alt="Perk Image" width="50" height="50"></td>
+                    <td>@Model.PERK_NAME2</td>
+                    <td>@Model.PERK_DESCRIPTION2</td>
+                </tr>
+                <tr>
+                    <td><img src="@Model.PERK_IMAGE3" alt="Perk Image" width="50" height="50"></td>
+                    <td>@Model.PERK_NAME3</td>
+                    <td>@Model.PERK_DESCRIPTION3</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

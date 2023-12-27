@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TALON
+build_property.RootNamespace = TALON
+build_property.ProjectDir = C:\Users\elcsa\OneDrive\Masaüstü\talon\talon\TALON\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\elcsa\OneDrive\Masaüstü\talon\talon\TALON
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/elcsa/OneDrive/Masaüstü/talon/talon/TALON/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcsa/OneDrive/Masaüstü/talon/talon/TALON/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcsa/OneDrive/Masaüstü/talon/talon/TALON/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcsa/OneDrive/Masaüstü/talon/talon/TALON/Views/Shared/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcsa/OneDrive/Masaüstü/talon/talon/TALON/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcsa/OneDrive/Masaüstü/talon/talon/TALON/Views/TALON/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFMT05cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcsa/OneDrive/Masaüstü/talon/talon/TALON/Views/TALON/PERKS.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFMT05cUEVSS1MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcsa/OneDrive/Masaüstü/talon/talon/TALON/Views/TALON/SPECIAL_PAGE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFMT05cU1BFQ0lBTF9QQUdFLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcsa/OneDrive/Masaüstü/talon/talon/TALON/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcsa/OneDrive/Masaüstü/talon/talon/TALON/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcsa/OneDrive/Masaüstü/talon/talon/TALON/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-viru0f9hb3

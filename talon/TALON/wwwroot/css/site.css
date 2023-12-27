@@ -1,0 +1,44 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.sari-blok {
+    background-color: yellow; 
+    padding: 20px; 
+    border: 1px solid #ccc; 
+}
+.banner{
+    background-image:url('/Images/bg.jpg')
+}
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    display: inline-block;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+    .card h3 {
+        color: #333;
+    }
+
+    .card p {
+        color: #666;
+    }
+
+body {
+    background-color: rgba(48,49,48,255);
+}

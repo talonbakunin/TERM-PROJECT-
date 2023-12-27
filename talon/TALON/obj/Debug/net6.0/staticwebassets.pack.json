@@ -1,0 +1,901 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TALON.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TALON.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\Images\\DARTH VADER.jpeg",
+      "PackagePath": "staticwebassets\\Images\\DARTH VADER.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\Images\\Dr_Loomis_on_Michael.mp3",
+      "PackagePath": "staticwebassets\\Images\\Dr_Loomis_on_Michael.mp3"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\Images\\FREDDY KRUEGER.jpg",
+      "PackagePath": "staticwebassets\\Images\\FREDDY KRUEGER.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\Images\\JOHN KRAMER.jpeg",
+      "PackagePath": "staticwebassets\\Images\\JOHN KRAMER.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\Images\\MICHAEL.jpg",
+      "PackagePath": "staticwebassets\\Images\\MICHAEL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\Images\\VERGIL.jpeg",
+      "PackagePath": "staticwebassets\\Images\\VERGIL.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\Images\\bg.jpg",
+      "PackagePath": "staticwebassets\\Images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\Images\\ekstra.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ekstra.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\Images\\ghostface.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ghostface.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\Images\\talon.jpeg",
+      "PackagePath": "staticwebassets\\Images\\talon.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\Images\\weskerr.jpeg",
+      "PackagePath": "staticwebassets\\Images\\weskerr.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\Site-logo.webp",
+      "PackagePath": "staticwebassets\\Site-logo.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K01_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K01_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K02_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K02_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K03_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K03_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K04_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K04_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K05_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K05_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K06_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K06_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K07_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K07_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K08_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K08_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K09_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K09_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K10_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K10_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K11_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K11_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K12_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K12_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K13_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K13_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K14_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K14_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K15_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K15_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K16_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K16_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K17_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K17_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K18_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K18_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K19_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K19_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K20_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K20_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K21_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K21_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K22_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K22_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K23_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K23_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K24_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K24_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K25_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K25_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K26_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K26_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K27_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K27_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K28_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K28_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K29_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K29_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K30_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K30_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K31_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K31_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K32_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K32_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K33_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K33_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\K34_charPreview_portrait.jpg",
+      "PackagePath": "staticwebassets\\dbd\\K34_charPreview_portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\background.jpg",
+      "PackagePath": "staticwebassets\\dbd\\background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\dbd\\iloveimg-converted.zip",
+      "PackagePath": "staticwebassets\\dbd\\iloveimg-converted.zip"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\images.jpeg",
+      "PackagePath": "staticwebassets\\images.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\artist.webp",
+      "PackagePath": "staticwebassets\\perks\\artist.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\artist2.webp",
+      "PackagePath": "staticwebassets\\perks\\artist2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\artist3.webp",
+      "PackagePath": "staticwebassets\\perks\\artist3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\blight.webp",
+      "PackagePath": "staticwebassets\\perks\\blight.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\blight2.webp",
+      "PackagePath": "staticwebassets\\perks\\blight2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\blight3.webp",
+      "PackagePath": "staticwebassets\\perks\\blight3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\cannibal.webp",
+      "PackagePath": "staticwebassets\\perks\\cannibal.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\cannibal2.webp",
+      "PackagePath": "staticwebassets\\perks\\cannibal2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\cannibal3.webp",
+      "PackagePath": "staticwebassets\\perks\\cannibal3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\cenobite.webp",
+      "PackagePath": "staticwebassets\\perks\\cenobite.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\cenobite2.webp",
+      "PackagePath": "staticwebassets\\perks\\cenobite2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\cenobite3.webp",
+      "PackagePath": "staticwebassets\\perks\\cenobite3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\clown.webp",
+      "PackagePath": "staticwebassets\\perks\\clown.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\clown2.webp",
+      "PackagePath": "staticwebassets\\perks\\clown2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\clown3.webp",
+      "PackagePath": "staticwebassets\\perks\\clown3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\deathslinger.webp",
+      "PackagePath": "staticwebassets\\perks\\deathslinger.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\deathslinger2.webp",
+      "PackagePath": "staticwebassets\\perks\\deathslinger2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\deathslinger3.webp",
+      "PackagePath": "staticwebassets\\perks\\deathslinger3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\demogorgon.webp",
+      "PackagePath": "staticwebassets\\perks\\demogorgon.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\demogorgon2.webp",
+      "PackagePath": "staticwebassets\\perks\\demogorgon2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\demogorgon3.webp",
+      "PackagePath": "staticwebassets\\perks\\demogorgon3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\doctor.webp",
+      "PackagePath": "staticwebassets\\perks\\doctor.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\doctor2.webp",
+      "PackagePath": "staticwebassets\\perks\\doctor2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\doctor3.webp",
+      "PackagePath": "staticwebassets\\perks\\doctor3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\dredge.webp",
+      "PackagePath": "staticwebassets\\perks\\dredge.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\dredge2.webp",
+      "PackagePath": "staticwebassets\\perks\\dredge2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\dredge3.webp",
+      "PackagePath": "staticwebassets\\perks\\dredge3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\executioner.webp",
+      "PackagePath": "staticwebassets\\perks\\executioner.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\executioner2.webp",
+      "PackagePath": "staticwebassets\\perks\\executioner2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\executioner3.webp",
+      "PackagePath": "staticwebassets\\perks\\executioner3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\ghost face 2.webp",
+      "PackagePath": "staticwebassets\\perks\\ghost face 2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\ghost face 3.webp",
+      "PackagePath": "staticwebassets\\perks\\ghost face 3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\ghost face.webp",
+      "PackagePath": "staticwebassets\\perks\\ghost face.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\good guy 2.webp",
+      "PackagePath": "staticwebassets\\perks\\good guy 2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\good guy 3.webp",
+      "PackagePath": "staticwebassets\\perks\\good guy 3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\good guy.webp",
+      "PackagePath": "staticwebassets\\perks\\good guy.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\hag.webp",
+      "PackagePath": "staticwebassets\\perks\\hag.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\hag2.webp",
+      "PackagePath": "staticwebassets\\perks\\hag2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\hag3.webp",
+      "PackagePath": "staticwebassets\\perks\\hag3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\hillbilly.webp",
+      "PackagePath": "staticwebassets\\perks\\hillbilly.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\hillbilly2.webp",
+      "PackagePath": "staticwebassets\\perks\\hillbilly2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\hillbilly3.webp",
+      "PackagePath": "staticwebassets\\perks\\hillbilly3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\huntress.webp",
+      "PackagePath": "staticwebassets\\perks\\huntress.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\huntress2.webp",
+      "PackagePath": "staticwebassets\\perks\\huntress2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\huntress3.webp",
+      "PackagePath": "staticwebassets\\perks\\huntress3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\knight.webp",
+      "PackagePath": "staticwebassets\\perks\\knight.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\knight2.webp",
+      "PackagePath": "staticwebassets\\perks\\knight2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\knight3.webp",
+      "PackagePath": "staticwebassets\\perks\\knight3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\legion.webp",
+      "PackagePath": "staticwebassets\\perks\\legion.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\legion2.webp",
+      "PackagePath": "staticwebassets\\perks\\legion2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\legion3.webp",
+      "PackagePath": "staticwebassets\\perks\\legion3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\mastermind.webp",
+      "PackagePath": "staticwebassets\\perks\\mastermind.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\mastermind2.webp",
+      "PackagePath": "staticwebassets\\perks\\mastermind2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\mastermind3.webp",
+      "PackagePath": "staticwebassets\\perks\\mastermind3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\nemesis.webp",
+      "PackagePath": "staticwebassets\\perks\\nemesis.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\nemesis2.webp",
+      "PackagePath": "staticwebassets\\perks\\nemesis2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\nemesis3.webp",
+      "PackagePath": "staticwebassets\\perks\\nemesis3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\nightmare.webp",
+      "PackagePath": "staticwebassets\\perks\\nightmare.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\nightmare2.webp",
+      "PackagePath": "staticwebassets\\perks\\nightmare2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\nightmare3.webp",
+      "PackagePath": "staticwebassets\\perks\\nightmare3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\nurse.webp",
+      "PackagePath": "staticwebassets\\perks\\nurse.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\nurse2.webp",
+      "PackagePath": "staticwebassets\\perks\\nurse2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\nurse3.webp",
+      "PackagePath": "staticwebassets\\perks\\nurse3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\oni.webp",
+      "PackagePath": "staticwebassets\\perks\\oni.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\oni2.webp",
+      "PackagePath": "staticwebassets\\perks\\oni2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\oni3.webp",
+      "PackagePath": "staticwebassets\\perks\\oni3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\onryo.webp",
+      "PackagePath": "staticwebassets\\perks\\onryo.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\onryo2.webp",
+      "PackagePath": "staticwebassets\\perks\\onryo2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\onryo3.webp",
+      "PackagePath": "staticwebassets\\perks\\onryo3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\pig.webp",
+      "PackagePath": "staticwebassets\\perks\\pig.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\pig2.webp",
+      "PackagePath": "staticwebassets\\perks\\pig2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\pig3.webp",
+      "PackagePath": "staticwebassets\\perks\\pig3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\plague.webp",
+      "PackagePath": "staticwebassets\\perks\\plague.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\plague2.webp",
+      "PackagePath": "staticwebassets\\perks\\plague2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\plague3.webp",
+      "PackagePath": "staticwebassets\\perks\\plague3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\shape.webp",
+      "PackagePath": "staticwebassets\\perks\\shape.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\shape2.webp",
+      "PackagePath": "staticwebassets\\perks\\shape2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\shape3.webp",
+      "PackagePath": "staticwebassets\\perks\\shape3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\singularity.webp",
+      "PackagePath": "staticwebassets\\perks\\singularity.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\singularity2.webp",
+      "PackagePath": "staticwebassets\\perks\\singularity2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\singularity3.webp",
+      "PackagePath": "staticwebassets\\perks\\singularity3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\skull merchant.webp",
+      "PackagePath": "staticwebassets\\perks\\skull merchant.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\skull merchant2.webp",
+      "PackagePath": "staticwebassets\\perks\\skull merchant2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\skull merchant3.webp",
+      "PackagePath": "staticwebassets\\perks\\skull merchant3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\spirit.webp",
+      "PackagePath": "staticwebassets\\perks\\spirit.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\spirit2.webp",
+      "PackagePath": "staticwebassets\\perks\\spirit2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\spirit3.webp",
+      "PackagePath": "staticwebassets\\perks\\spirit3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\trapper.webp",
+      "PackagePath": "staticwebassets\\perks\\trapper.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\trapper2.webp",
+      "PackagePath": "staticwebassets\\perks\\trapper2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\trapper3.webp",
+      "PackagePath": "staticwebassets\\perks\\trapper3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\trickster.webp",
+      "PackagePath": "staticwebassets\\perks\\trickster.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\trickster2.webp",
+      "PackagePath": "staticwebassets\\perks\\trickster2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\trickster3.webp",
+      "PackagePath": "staticwebassets\\perks\\trickster3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\twins.webp",
+      "PackagePath": "staticwebassets\\perks\\twins.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\twins2.webp",
+      "PackagePath": "staticwebassets\\perks\\twins2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\twins3.png",
+      "PackagePath": "staticwebassets\\perks\\twins3.png"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\wraith.webp",
+      "PackagePath": "staticwebassets\\perks\\wraith.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\wraith2.webp",
+      "PackagePath": "staticwebassets\\perks\\wraith2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\wraith3.webp",
+      "PackagePath": "staticwebassets\\perks\\wraith3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\xenomorph.webp",
+      "PackagePath": "staticwebassets\\perks\\xenomorph.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\xenomorph2.webp",
+      "PackagePath": "staticwebassets\\perks\\xenomorph2.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\perks\\xenomorph3.webp",
+      "PackagePath": "staticwebassets\\perks\\xenomorph3.webp"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\voices\\Freddy.mp3",
+      "PackagePath": "staticwebassets\\voices\\Freddy.mp3"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\voices\\John_Kramer.mp3",
+      "PackagePath": "staticwebassets\\voices\\John_Kramer.mp3"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\voices\\Talon.mp3",
+      "PackagePath": "staticwebassets\\voices\\Talon.mp3"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\voices\\darth_vader.mp3",
+      "PackagePath": "staticwebassets\\voices\\darth_vader.mp3"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\voices\\ghostface.mp3",
+      "PackagePath": "staticwebassets\\voices\\ghostface.mp3"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\voices\\michael_myers.mp3",
+      "PackagePath": "staticwebassets\\voices\\michael_myers.mp3"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\voices\\vergil.mp3",
+      "PackagePath": "staticwebassets\\voices\\vergil.mp3"
+    },
+    {
+      "Id": "C:\\Users\\elcsa\\OneDrive\\Masaüstü\\talon\\talon\\TALON\\wwwroot\\voices\\wesker.mp3",
+      "PackagePath": "staticwebassets\\voices\\wesker.mp3"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TALON.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TALON.props",
+      "PackagePath": "build\\TALON.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TALON.props",
+      "PackagePath": "buildMultiTargeting\\TALON.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TALON.props",
+      "PackagePath": "buildTransitive\\TALON.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
